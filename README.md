@@ -1,4 +1,4 @@
-# Welcome to the colorFi operating manual
+#Operating manual
 
 where we harness the power of web3 to accelerate the growth of decentralized technologies.
 
