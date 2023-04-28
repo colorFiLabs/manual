@@ -1,4 +1,4 @@
-# Operating manual
+# Operating Manual
 
 where we harness the power of web3 to accelerate the growth of decentralized technologies.
 
